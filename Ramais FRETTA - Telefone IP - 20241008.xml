@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactData>
+	<group>
+		<contact sOfficeNumber="1000" sRing="1" sDisplayName="Recepcao" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1001" sRing="1" sDisplayName="Thiago" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1002" sRing="1" sDisplayName="Idalino" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1003" sRing="1" sDisplayName="Daniela" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1004" sRing="1" sDisplayName="Contabilidade" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1005" sRing="1" sDisplayName="Marci" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1006" sRing="1" sDisplayName="Marcia" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1007" sRing="1" sDisplayName="Danyele" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1008" sRing="1" sDisplayName="Ana Maria" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1009" sRing="1" sDisplayName="Gisele" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1010" sRing="1" sDisplayName="Katia" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1011" sRing="1" sDisplayName="Roberta" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1012" sRing="1" sDisplayName="Reunioes" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1013" sRing="1" sDisplayName="Gustavo" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1014" sRing="1" sDisplayName="Logan" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1015" sRing="1" sDisplayName="Nelson" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1016" sRing="1" sDisplayName="Will" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1017" sRing="1" sDisplayName="Davi" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1018" sRing="1" sDisplayName="TI" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1020" sRing="1" sDisplayName="Bianca" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1021" sRing="1" sDisplayName="Antonella" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1022" sRing="1" sDisplayName="Luiza Jovem Aprendiz" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1023" sRing="1" sDisplayName="Yan Jovem Aprendiz" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1030" sRing="1" sDisplayName="Edmara" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1031" sRing="1" sDisplayName="Crediario 1" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1032" sRing="1" sDisplayName="Crediario 2" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1033" sRing="1" sDisplayName="Caixa 1" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1034" sRing="1" sDisplayName="Caixa 2" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1040" sRing="1" sDisplayName="Gerente Loja" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1041" sRing="1" sDisplayName="Marciel" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1042" sRing="1" sDisplayName="Ana/Paula" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1043" sRing="1" sDisplayName="Marcos" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1044" sRing="1" sDisplayName="Mikahel" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="1045" sRing="1" sDisplayName="Alisson" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="2000" sRing="1" sDisplayName="Cristiane BN" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="2001" sRing="1" sDisplayName="Soraia BN" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="2002" sRing="1" sDisplayName="Suelen BN" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="2003" sRing="1" sDisplayName="Loja BN" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="2004" sRing="1" sDisplayName="Vendas BN" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="3000" sRing="1" sDisplayName="Heverton" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="3001" sRing="1" sDisplayName="Henrique" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4000" sRing="1" sDisplayName="Ariana" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4001" sRing="1" sDisplayName="Leonardo" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4002" sRing="1" sDisplayName="Graziela" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4003" sRing="1" sDisplayName="Jordana" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4004" sRing="1" sDisplayName="Felipe" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="4005" sRing="1" sDisplayName="Hendryo" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5000" sRing="1" sDisplayName="Beth" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5001" sRing="1" sDisplayName="Guilherme Fretta" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5002" sRing="1" sDisplayName="Sandra" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5003" sRing="1" sDisplayName="Rosiele" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5004" sRing="1" sDisplayName="Julia" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5005" sRing="1" sDisplayName="Mariana" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5006" sRing="1" sDisplayName="Rayssa" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="5007" sRing="1" sDisplayName="Djanir" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="6000" sRing="1" sDisplayName="Patricia" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="6001" sRing="1" sDisplayName="Tamiles" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="6002" sRing="1" sDisplayName="Vinicius Glavam" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9001" sRing="1" sDisplayName="Nicholas" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9002" sRing="1" sDisplayName="Guilherme Silveira" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9003" sRing="1" sDisplayName="Ailon" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9004" sRing="1" sDisplayName="Guarita" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9005" sRing="1" sDisplayName="Laila" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9006" sRing="1" sDisplayName="Ramon" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9007" sRing="1" sDisplayName="Carlos Alberto" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9008" sRing="1" sDisplayName="Amanda" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9009" sRing="1" sDisplayName="Vinicius Pavanati" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9010" sRing="1" sDisplayName="Manutencao" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9011" sRing="1" sDisplayName="Embalagem" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9012" sRing="1" sDisplayName="Expedicao" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9013" sRing="1" sDisplayName="Prensa" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9020" sRing="1" sDisplayName="Christiane" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9021" sRing="1" sDisplayName="Samanta" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9023" sRing="1" sDisplayName="Christian Lozano" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9024" sRing="1" sDisplayName="Tatiana" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9025" sRing="1" sDisplayName="Diogo" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9026" sRing="1" sDisplayName="Vitoria" sAccount="0" sIcon="Person" />
+		<contact sOfficeNumber="9027" sRing="1" sDisplayName="Aline" sAccount="0" sIcon="Person" />
+	</group>
+	<blacklist />
+</contactData>
